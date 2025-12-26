@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Node.js;Open+to+Freelance+%26+Jobs)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Muhammet+Bilal+Şahin;React+%26+Node.js;Open+to+Freelance+%26+Jobs)
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
