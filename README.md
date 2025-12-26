@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" />
+</p>
+
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=arrow&direction=down&color=00ff88" />
+</p>
+
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
