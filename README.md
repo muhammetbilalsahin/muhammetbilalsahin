@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Node.js;Open+to+Freelance+%26+Jobs)
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
