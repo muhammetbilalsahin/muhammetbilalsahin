@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=220&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=38&fontColor=ffffff)
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
 
