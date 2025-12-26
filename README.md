@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" />
 </p>
-
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
