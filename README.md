@@ -1,4 +1,4 @@
-                           ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=180&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
 
 
 
