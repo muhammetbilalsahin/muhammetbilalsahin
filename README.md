@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/assets/arrow.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/muhammetbilalsahin/muhammetbilalsahin/output/github-contribution-grid-snake.svg" />
 </p>
-
-
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
 
