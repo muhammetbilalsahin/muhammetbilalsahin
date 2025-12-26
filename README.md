@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammetbilalsahin/muhammetbilalsahin/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="40" />
 </p>
+
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
