@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="40" />
 </p>
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=arrow&direction=down&color=00ff88" />
-</p>
-
 
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
