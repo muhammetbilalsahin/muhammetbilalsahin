@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Muhammet+Bilal+Şahin;Full+Stack+Developer;React+%26+Node.js;Open+to+Job+%26+Freelance" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
+
 
 <h3 align="center">Building modern, scalable web applications</h3>
 
