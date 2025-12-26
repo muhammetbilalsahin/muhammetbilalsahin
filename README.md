@@ -5,21 +5,27 @@
 <p align="center">
 Building modern, scalable web applications • Open to full-time & freelance
 </p>
+## 👨‍💻 About Me
+- 🎓 Recently graduated Full Stack Developer  
+- 🚀 Focused on React, Node.js & MongoDB  
+- 🧠 Passionate about real-world projects  
+- 💼 Available for job & freelance work  
 
-# 👋 Hi, I'm Muhammet Bilal Şahin
+## 📚 Currently Learning
+- Advanced React Patterns  
+- Backend Architecture  
+- Clean Code & Best Practices  
 
-🚀 Full Stack Developer | React & Node.js  
-🎓 Recently graduated and actively building real-world projects  
-💼 Open to full-time roles & freelance opportunities  
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,nodejs,express,mongodb,git,github,vite" />
+</p>
 
----
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
+</p>
 
-## 🧠 Tech Stack
-**Frontend:** React, Redux Toolkit, JavaScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, Vite, Render, Vercel, Figma  
-
----
 
 ## 🔥 Featured Projects
 
