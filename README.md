@@ -1,3 +1,11 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=220&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+<h2 align="center">Full Stack Developer (React & Node.js)</h2>
+<p align="center">
+Building modern, scalable web applications • Open to full-time & freelance
+</p>
+
 # 👋 Hi, I'm Muhammet Bilal Şahin
 
 🚀 Full Stack Developer | React & Node.js  
