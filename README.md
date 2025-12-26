@@ -49,10 +49,8 @@ A full-stack Kanban-style task management application.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetbilalsahin&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammetbilalsahin&show_icons=true&theme=tokyonight)
+
 
 
 ---
