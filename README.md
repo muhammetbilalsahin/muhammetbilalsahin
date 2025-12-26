@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammet Bilal Şahin
 
-<!--
-**muhammetbilalsahin/muhammetbilalsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React & Node.js  
+🎓 Recently graduated and actively building real-world projects  
+💼 Open to full-time roles & freelance opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+**Frontend:** React, Redux Toolkit, JavaScript, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, GitHub, Vite, Render, Vercel, Figma  
+
+---
+
+## 🔥 Featured Projects
+
+### 🗂 Task-Pro – Task Management App
+A full-stack Kanban-style task management application.
+
+- Authentication (JWT)
+- Boards, columns & cards
+- Drag & drop functionality
+- Team collaboration
+
+🔗 Live Demo: https://  
+🔗 Frontend Repo: https://github.com/  
+🔗 Backend Repo: https://github.com/  
+
+---
+
+### 💸 Money Guard – Personal Finance Tracker
+A personal finance application for tracking income and expenses.
+
+- Income & expense tracking
+- Category-based statistics
+- Charts & analytics
+- Responsive design
+
+🔗 Live Demo: https://  
+🔗 Repository: https://github.com/  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/  
+- Email: yourmail@gmail.com  
+
+---
+
+⭐ Feel free to check out my repositories and get in touch!
