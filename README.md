@@ -1,3 +1,10 @@
+## 👨‍💻 About Me
+- 🎓 Recently graduated Full Stack Developer  
+- 🚀 Focused on React, Node.js & MongoDB  
+- 🧠 Real-world project oriented  
+- 💼 Open to job & freelance opportunities  
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhammetbilalsahin/muhammetbilalsahin/output/github-contribution-grid-snake.svg" />
 </p>
@@ -7,14 +14,6 @@
 <p align="center">
 Building modern, scalable web applications • Open to full-time & freelance
 </p>
-
----
-
-## 👨‍💻 About Me
-- 🎓 Recently graduated Full Stack Developer  
-- 🚀 Focused on React, Node.js & MongoDB  
-- 🧠 Real-world project oriented  
-- 💼 Open to job & freelance opportunities  
 
 ---
 
