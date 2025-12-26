@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:9333ea&height=200&section=header&text=Muhammet%20Bilal%20Şahin&fontSize=40&fontColor=ffffff)
 
-
-<h3 align="center">Building modern, scalable web applications</h3>
 
 <h2 align="center">Full Stack Developer (React & Node.js)</h2>
 
