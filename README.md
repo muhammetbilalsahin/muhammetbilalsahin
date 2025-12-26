@@ -23,28 +23,15 @@ A full-stack Kanban-style task management application.
 - Drag & drop functionality
 - Team collaboration
 
-🔗 Live Demo: https://  
-🔗 Frontend Repo: https://github.com/  
-🔗 Backend Repo: https://github.com/  
+🔗 Live Demo: [https://  ](https://task-pro-3gw9.onrender.com/)
+ Repo:[ https://github.com/  -](https://github.com/Muhammet-Bilal-Sahin/Task-Pro)
 
 ---
 
-### 💸 Money Guard – Personal Finance Tracker
-A personal finance application for tracking income and expenses.
-
-- Income & expense tracking
-- Category-based statistics
-- Charts & analytics
-- Responsive design
-
-🔗 Live Demo: https://  
-🔗 Repository: https://github.com/  
-
----
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/  
-- Email: yourmail@gmail.com  
+- LinkedIn:[ https://linkedin.com/in/  ](https://www.linkedin.com/in/muhammet-bilal-sahin/)
+- Email: shnblsm@gmail.com  
 
 ---
 
