@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+##  About Me
 - 🎓 Recently graduated Full Stack Developer  
 - 🚀 Focused on React, Node.js & MongoDB  
 - 🧠 Real-world project oriented  
