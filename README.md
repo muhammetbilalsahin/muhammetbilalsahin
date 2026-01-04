@@ -17,14 +17,14 @@ Building modern, scalable web applications • Open to full-time & freelance
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,nodejs,express,mongodb,git,github,vite" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🗂 Task-Pro – Task Management App
 Full-stack Kanban-style project management application.
